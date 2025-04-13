@@ -1,0 +1,10 @@
+Este é um arquivo de teste pequeno.
+Ele contém algumas linhas de texto simples.
+Você pode usá-lo para testar a transferência via UDP ou TCP.
+Essa transferência deve ocorrer rapidamente e sem fragmentação.
+Boa sorte com os testes de rede!
+Linha 6: mais uma linha.
+Linha 7: e mais outra.
+Linha 8: quase lá.
+Linha 9: penúltima.
+Linha 10: última linha do arquivo pequeno.oi
